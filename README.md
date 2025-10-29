@@ -5,6 +5,11 @@
 
 ---
 
+
+
+<img width="1920" height="1020" alt="Celo Sepolia transaction 0xc67796dbac0f0e8b8dfb3ed53f1ab1d8e0a6aea862856066fd002cc88553f65e _ Blockscout - Google Chrome 29-10-2025 13_54_06" src="https://github.com/user-attachments/assets/cf4bd5e7-b183-4f94-8aa9-6ec6f270be89" />
+
+
 ## 🧩 Project Description
 
 Traditional event ticketing systems often suffer from problems like counterfeiting, hidden fees, and centralized control. **EventFi** solves these issues by providing a **trustless, transparent, and tamper-proof** platform for managing event tickets.  
