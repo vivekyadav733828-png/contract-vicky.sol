@@ -62,7 +62,7 @@ All transactions are handled by the smart contract, ensuring **no middlemen** an
 **Transaction / Deployment Link:**  
 🔗 [View on Celo Blockscout](https://celo-sepolia.blockscout.com/tx/0xc67796dbac0f0e8b8dfb3ed53f1ab1d8e0a6aea862856066fd002cc88553f65e)
 
-**Deployed Contract Address:** `XXX`
+**Deployed Contract Address:**
 
 https://celo-sepolia.blockscout.com/tx/0xc67796dbac0f0e8b8dfb3ed53f1ab1d8e0a6aea862856066fd002cc88553f65e
 ---
